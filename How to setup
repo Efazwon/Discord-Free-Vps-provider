@@ -1,0 +1,9 @@
+First clone my git
+then cd my git
+Then write apt install nodejs npm
+then type npm install
+then type npm install child_process discord.js fs
+then type node index.js
+if the file not created then type touch index.js
+and also change the code The change is Replace your bot token and admin id
+These steps to make the bot 
