@@ -12,8 +12,8 @@ const client = new Client({
 });
 
 // Replace with your bot token & admin ID
-const botToken = "Replace_Your_Bot_Token"; // Replace with your bot token
-const ADMIN_ID = "Replace_Your_Discord_User_ID"; // Replace with your actual Discord admin ID
+const botToken = "MTM3NzEzMzYzODYwMDM2MDA0Ng.GKWPcv.Y6yxRiR_28dKv81DzmKUrljkpadsHjj_5ye8JE"; // Replace with your bot token
+const ADMIN_ID = "1202979659562745867"; // Replace with your actual Discord admin ID
 
 // VPS data storage
 let vpsData = {};
