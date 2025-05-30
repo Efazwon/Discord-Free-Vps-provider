@@ -12,7 +12,7 @@ const client = new Client({
 });
 
 // Replace with your bot token & admin ID
-const botToken = "MTM3Nzg5ODgzMTU2MzMyNTQ2MQ.GVJvNu.zfg53M4tNMO41yI7ioPIuUPeiZoyT74XUZzZh0"; // Replace with your bot token
+const botToken = "MTM3Nzg5ODgzMTU2MzMyNTQ2MQ.GjGoM4.4Oubh3RoyQgsRgaPlbeghln5AugfL40zcBqCok"; // Replace with your bot token
 const ADMIN_ID = "1202979659562745867"; // Replace with your actual Discord admin ID
 
 // VPS data storage
